@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31605.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entry-time-serveless.Common", "entry-time-serveless.Common\entry-time-serveless.Common.csproj", "{C6B69ECC-510E-440E-8719-A57F540AD532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "entry-time-serveless.Common", "entry-time-serveless.Common\entry-time-serveless.Common.csproj", "{C6B69ECC-510E-440E-8719-A57F540AD532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entry-time-serveless.Functions", "entry-time-serveless.Functions\entry-time-serveless.Functions.csproj", "{9BBA0F2B-B30D-460F-A157-48B53CFB7FA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "entry-time-serveless.Functions", "entry-time-serveless.Functions\entry-time-serveless.Functions.csproj", "{9BBA0F2B-B30D-460F-A157-48B53CFB7FA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "entry-time-serveless.Test", "entry-time-serveless.Test\entry-time-serveless.Test.csproj", "{F50B6FA5-2E00-4F28-B14E-A6E05AB7B0E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "entry-time-serveless.Test", "entry-time-serveless.Test\entry-time-serveless.Test.csproj", "{F50B6FA5-2E00-4F28-B14E-A6E05AB7B0E2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
